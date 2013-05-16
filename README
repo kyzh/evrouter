@@ -23,7 +23,7 @@ All comments are welcome.
 
 	- Alexios Chouchoulas <alexios@bedroomlan.org>
 
-
+Note: to compile under fedora one will need to install libX11-devel libXtst-devel
 
 Many thanks to the following people who supplied bug reports, patches,
 helpful comments, constructive death threats, and what not:
